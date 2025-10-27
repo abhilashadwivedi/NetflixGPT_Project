@@ -2,7 +2,9 @@
 
 - npx create vite@latest my-ptoject-name
 - Configured TailwindCSS
-- 
+- Header
+- Login Form
+- Sign up Form
 
 # Features
 - Login/Sign up
